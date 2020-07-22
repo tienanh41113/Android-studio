@@ -18,5 +18,5 @@
 <ol>
 	<b>Subject: Android Studio</b>
 	<br><b>Time: 22/7/2020</b>
-	<br>© 2020 Copyright by TienAnh41113 - All Rights Reserved | Designed by TienAnh41113</br>
+	<br><b>© 2020 Copyright by TienAnh41113 - All Rights Reserved | Designed by TienAnh41113</b></br>
 <img src="https://github.com/tienanh41113/Chuky/blob/master/Anh.png?raw=true" width="300">
