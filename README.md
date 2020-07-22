@@ -19,3 +19,4 @@
 	<b >Ngày: 22/07/2020</b>
 	<br><b>Lớp: CTT12CĐ3A</b>
 	<br><b>Môn học: Android Studio</b>
+	<br>![img](file:///https://github.com/tienanh41113/Chuky/blob/master/chuky.png)
