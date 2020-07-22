@@ -19,4 +19,4 @@
 	<b >Ngày: 22/07/2020</b>
 	<br><b>Lớp: CTT12CĐ3A</b>
 	<br><b>Môn học: Android Studio</b>
-	![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.advancedsciencenews.com%2Fastronomers-estimate-there-are-36-communicating-civilizations-in-our-galaxy%2F&psig=AOvVaw2N6gGlz9elVtJt0cBe4idW&ust=1595509022049000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCPmrb04OoCFQAAAAAdAAAAABAD) 
+	[![110201401-303203244158421-695299001443262919-n.png](https://i.postimg.cc/Dwr18TFK/110201401-303203244158421-695299001443262919-n.png)](https://postimg.cc/zyfyc4Vd)
