@@ -7,3 +7,7 @@
 <li><a href="https://ngocminhtran.com/2018/10/17/fragments-trong-android/">Fragments trong Android</a> (<a href="https://github.com/tienanh41113/Fragment-trong-Android-studio">Code</a>)</li>
 <li><a href="https://ngocminhtran.com/2018/10/27/tao-va-quan-ly-thuc-don-tuy-chon-overflow-menus-trong-android/">Tạo và quản lý thực đơn tùy chọn (overflow menus) trong Android</a> (<a href="https://github.com/tienanh41113/Tao-va-quan-ly-thuc-don-tuy-chon-overflow-menus-trong-Android-">Code</a>)</li>
 <li><a href="https://ngocminhtran.com/2018/11/05/doi-tuong-intent-trong-android-phan-1/">ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 1)</a> (<a href="https://github.com/tienanh41113/Doi-tuong-intent-trong-android">Code</a>)</li>
+<ul>
+			<li><a href="https://ngocminhtran.com/2018/11/05/doi-tuong-intent-trong-android-phan-2/">ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 2)</a> (<a href="https://github.com/tienanh41113/Doi-tuong-intent-2">Code</a>)</li>
+			<li><a href="https://ngocminhtran.com/2018/11/05/doi-tuong-intent-trong-android-phan-3/">ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 3)</a> (<a href="https://github.com/tienanh41113/Doi-tuong-intent-3">Code</a>)</li>
+</ul>
