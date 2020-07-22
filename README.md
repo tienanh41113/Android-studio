@@ -10,8 +10,8 @@
 <li><a href="https://ngocminhtran.com/2018/10/27/tao-va-quan-ly-thuc-don-tuy-chon-overflow-menus-trong-android/">Tạo và quản lý thực đơn tùy chọn (overflow menus) trong Android</a> <b>(<a href="https://github.com/tienanh41113/Tao-va-quan-ly-thuc-don-tuy-chon-overflow-menus-trong-Android-">Code</b></a>)</li>
 <li><a href="https://ngocminhtran.com/2018/11/05/doi-tuong-intent-trong-android-phan-1/">ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 1)</a> <b>(<a href="https://github.com/tienanh41113/Doi-tuong-intent-trong-android">Code</b></a>)</li>
 <ul>
-			<li>8.1 <a href="https://ngocminhtran.com/2018/11/05/doi-tuong-intent-trong-android-phan-2/">ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 2)</a> <b>(<a href="https://github.com/tienanh41113/Doi-tuong-intent-2">Code</b></a>)</li>
-			<li>8.2 <a href="https://ngocminhtran.com/2018/11/05/doi-tuong-intent-trong-android-phan-3/">ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 3)</a> <b>(<a href="https://github.com/tienanh41113/Doi-tuong-intent-3">Code</b></a>)</li>
+			<li>9.1 <a href="https://ngocminhtran.com/2018/11/05/doi-tuong-intent-trong-android-phan-2/">ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 2)</a> <b>(<a href="https://github.com/tienanh41113/Doi-tuong-intent-2">Code</b></a>)</li>
+			<li>9.2 <a href="https://ngocminhtran.com/2018/11/05/doi-tuong-intent-trong-android-phan-3/">ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 3)</a> <b>(<a href="https://github.com/tienanh41113/Doi-tuong-intent-3">Code</b></a>)</li>
 </ul>
 <li><a href="https://ngocminhtran.com/2018/11/14/lap-trinh-co-so-du-lieu-trong-android-phan-1//">Lập trình cơ sở dữ liệu trong Android</a> <b>(<a href="https://github.com/tienanh41113/Lap-tring-co-so-du-lieu-trong-android">Code</b></a>)</li>
 <li>Lập trình một máy tính tự tạo <b>(<a href="https://github.com/tienanh41113/May-tinh">Code</b></a>)</li>
