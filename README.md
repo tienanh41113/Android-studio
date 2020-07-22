@@ -17,5 +17,5 @@
 <li>Lập trình một máy tính tự tạo <b>(<a href="https://github.com/tienanh41113/May-tinh">Code</b></a>)</li>
 <ol>
 	<b >Ngày: 22/07/2020</b>
-	<br><b>Lớp: CTT12CĐ3A</b></br>
-	<br><b>Môn học: Android Studio</b></br>
+	<br><b>Lớp: CTT12CĐ3A</b>
+	<br><b>Môn học: Android Studio</b>
