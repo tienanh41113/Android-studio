@@ -1,4 +1,4 @@
-# Android-studio (Bùi Xuân Tiến Anh)
+# Android-studio <marquee>(Bùi Xuân Tiến Anh)</marquee>
 <ol>
 <li><a href="https://ngocminhtran.com/2018/06/28/lap-trinh-android-dung-android-studio-3-x/">Làm quen  môi trường Android Studio và ứng dụng Android</a>, <a href="https://ngocminhtran.com/2018/07/11/dao-quanh-ung-dung-android-trong-android-studio-3-x/">Dạo quanh ứng dụng Android trong Android Studio</a> và <a href="https://ngocminhtran.com/2018/08/12/thiet-ke-giao-dien-nguoi-dung-voi-cong-cu-thiet-ke-android-studio-3-x/">Thiết kế giao diện người dùng với công cụ thiết kế Android Studio</a> <b>(<a href="https://github.com/tienanh41113/Thiet-ke-giao-dien-nguoi-dung-voi-android-studio">Code</b></a>)</li>
 <li><a href="https://ngocminhtran.com/2018/09/24/cac-views-co-ban-va-trong-giao-dien-ung-dung-android/">Các views cơ bản và trong giao diện ứng dụng Android</a> và <a href="https://ngocminhtran.com/2018/09/24/su-kien-va-xu-ly-su-kien/">Sự kiện và xử lý sự kiện trong Android</a> <b>(<a href="https://github.com/tienanh41113/Cac-view-co-ban-trong-giao-dien-ung-dung-android-studio">Code</b></a>)</li>
