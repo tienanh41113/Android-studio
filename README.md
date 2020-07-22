@@ -1,4 +1,5 @@
 # Android-studio
+<ol>
 <li><a href="https://ngocminhtran.com/2018/06/28/lap-trinh-android-dung-android-studio-3-x/">Làm quen  môi trường Android Studio và ứng dụng Android</a>, <a href="https://ngocminhtran.com/2018/07/11/dao-quanh-ung-dung-android-trong-android-studio-3-x/">Dạo quanh ứng dụng Android trong Android Studio</a> và <a href="https://ngocminhtran.com/2018/08/12/thiet-ke-giao-dien-nguoi-dung-voi-cong-cu-thiet-ke-android-studio-3-x/">Thiết kế giao diện người dùng với công cụ thiết kế Android Studio</a> (<a href="https://github.com/tienanh41113/Thiet-ke-giao-dien-nguoi-dung-voi-android-studio">Code</a>)</li>
 <li><a href="https://ngocminhtran.com/2018/09/24/cac-views-co-ban-va-trong-giao-dien-ung-dung-android/">Các views cơ bản và trong giao diện ứng dụng Android</a> và <a href="https://ngocminhtran.com/2018/09/24/su-kien-va-xu-ly-su-kien/">Sự kiện và xử lý sự kiện trong Android</a> (<a href="https://github.com/tienanh41113/Cac-view-co-ban-trong-giao-dien-ung-dung-android-studio">Code</a>)</li>
 <li><a href="https://ngocminhtran.com/2018/10/06/su-kien-va-xu-ly-su-kien-touch-cham-va-multi-touch-da-cham-trong-android/">Sự kiện và xử lý sự kiện touch (chạm) và multi-touch (đa chạm) trong Android</a> (<a href="https://github.com/tienanh41113/Su-kien-va-xu-ly-su-kien-touch-and-multi-touch-trong-android-studio">Code</a>)</li>
@@ -11,3 +12,4 @@
 			<li><a href="https://ngocminhtran.com/2018/11/05/doi-tuong-intent-trong-android-phan-2/">ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 2)</a> (<a href="https://github.com/tienanh41113/Doi-tuong-intent-2">Code</a>)</li>
 			<li><a href="https://ngocminhtran.com/2018/11/05/doi-tuong-intent-trong-android-phan-3/">ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 3)</a> (<a href="https://github.com/tienanh41113/Doi-tuong-intent-3">Code</a>)</li>
 </ul>
+<ol>
