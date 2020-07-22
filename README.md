@@ -19,4 +19,4 @@
 	<b >Ngày: 22/07/2020</b>
 	<br><b>Lớp: CTT12CĐ3A</b>
 	<br><b>Môn học: Android Studio</b>
-	![image](https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.15752-9/110201401_303203244158421_695299001443262919_n.png?_nc_cat=103&_nc_sid=b96e70&_nc_ohc=nwCfg05turQAX_RhGnv&_nc_ht=scontent.fsgn2-2.fna&oh=0815ccdf21183ee0ecbfce39cd4d55d4&oe=5F3F384B) 
+	![image](https://drive.google.com/file/d/1SV7bbXrHrjE5K_w6_859DUo90kE_eIsb/view?usp=sharing) 
