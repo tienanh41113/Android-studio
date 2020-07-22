@@ -16,6 +16,6 @@
 <li><a href="https://ngocminhtran.com/2018/11/14/lap-trinh-co-so-du-lieu-trong-android-phan-1//">Lập trình cơ sở dữ liệu trong Android</a> <b>(<a href="https://github.com/tienanh41113/Lap-tring-co-so-du-lieu-trong-android">Code</b></a>)</li>
 <li>Lập trình một máy tính tự tạo <b>(<a href="https://github.com/tienanh41113/May-tinh">Code</b></a>)</li>
 <ol>
-	<b >Ngày: 22/07/2020</b>
-	<br><b>Lớp: CTT12CĐ3A</b>
-	<br><b>Môn học: Android Studio</b>
+																	<b >Ngày: 22/07/2020</b>
+																	<br><b>Lớp: CTT12CĐ3A</b>
+																	<br><b>Môn học: Android Studio</b>
