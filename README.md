@@ -12,4 +12,6 @@
 			<li>8.1 <a href="https://ngocminhtran.com/2018/11/05/doi-tuong-intent-trong-android-phan-2/">ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 2)</a> (<a href="https://github.com/tienanh41113/Doi-tuong-intent-2">Code</a>)</li>
 			<li>8.2 <a href="https://ngocminhtran.com/2018/11/05/doi-tuong-intent-trong-android-phan-3/">ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 3)</a> (<a href="https://github.com/tienanh41113/Doi-tuong-intent-3">Code</a>)</li>
 </ul>
+<li><a href="https://ngocminhtran.com/2018/11/14/lap-trinh-co-so-du-lieu-trong-android-phan-1//">Lập trình cơ sở dữ liệu trong Android</a> (<a href="https://github.com/tienanh41113/Lap-tring-co-so-du-lieu-trong-android">Code</a>)</li>
+<li>Lập trình một máy tính tự tạo (<a href="https://github.com/tienanh41113/May-tinh">Code</a>)</li>
 <ol>
