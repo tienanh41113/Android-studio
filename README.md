@@ -16,3 +16,4 @@
 <li><a href="https://ngocminhtran.com/2018/11/14/lap-trinh-co-so-du-lieu-trong-android-phan-1//">Lập trình cơ sở dữ liệu trong Android</a> <b>(<a href="https://github.com/tienanh41113/Lap-tring-co-so-du-lieu-trong-android">Code</b></a>)</li>
 <li>Lập trình một máy tính tự tạo <b>(<a href="https://github.com/tienanh41113/May-tinh">Code</b></a>)</li>
 <ol>
+<img src="Chuky/chuky.png">
