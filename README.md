@@ -18,4 +18,3 @@
 <ol>
 	<b >Ngày: 22/07/2020</b>
 	<br><b>Lớp: CTT12CĐ3A</b></br>
-	<br><b>Môn học: Androi Studio</b></br>
