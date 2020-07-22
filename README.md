@@ -17,6 +17,7 @@
 <li>Lập trình một máy tính tự tạo <b>(<a href="https://github.com/tienanh41113/May-tinh">Code</b></a>)</li>
 <ol>
 	<b>Subject: Android Studio</b>
+	<br><b>Class: CTT12CĐ3A</b>
 	<br><b>Time: 22/7/2020</b>
 	<br><b>© 2020 Copyright by TienAnh41113 - All Rights Reserved | Designed by TienAnh41113</b></br>
 <img src="https://github.com/tienanh41113/Chuky/blob/master/Anh.png?raw=true" width="300">
